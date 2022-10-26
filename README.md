@@ -1,1 +1,1 @@
-
+Flappy bird is an interesting game. The game is played in a pixelated style where the player taps the screen or presses the space bar to control the height of the bird to avoid obstacles and gain points.
